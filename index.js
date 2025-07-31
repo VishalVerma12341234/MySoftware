@@ -12,6 +12,7 @@ con.then(()=>
 con.catch(()=>
 {
     console.log("Error in connection");
+    console.log("error");
 });
 
 
